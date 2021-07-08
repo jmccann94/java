@@ -1,0 +1,30 @@
+Welcome to DrJava.  Working directory is D:\Documents\Desktop\programing1\lab5
+> run Circles
+Lab 5 written by Justin McCann
+Enter radius of red circle:
+ [DrJava Input Box]
+Enter radius of green circle:
+ [DrJava Input Box]
+Enter radius of blue circle:
+ [DrJava Input Box]
+Enter the x coordinate for the red circle:
+ [DrJava Input Box]
+Enter the y coordinate for the red circle:
+ [DrJava Input Box]
+Enter the x coordinate for the green circle:
+ [DrJava Input Box]
+Enter the y coordinate for the green circle:
+ [DrJava Input Box]
+Enter the x coordinate for the blue circle:
+ [DrJava Input Box]
+Enter the y coordinate for the blue circle:
+ [DrJava Input Box]
+The red circle is smaller than the green circle.
+The green circle is smaller than the blue circle.
+The blue circle is smaller than the red circle.
+The red and green circles do not intersect.
+The red and blue circles do not intersect.
+The green and blue circles do not intersect.
+The red circle is within the window
+The green circle is within the window
+The blue circle is partially or completley outside of the window

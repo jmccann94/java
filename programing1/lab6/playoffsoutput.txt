@@ -1,0 +1,23 @@
+Lab 6 written by Justin McCann
+Enter the percent chance that team one will win:
+ [DrJava Input Box]
+Team 1 won!
+Team 1 won!
+Team 2 won!
+Team 1 won!
+Team 2 won!
+Team 1 won!
+Team 2 won!
+Team 1 won!
+Team 2 won!
+Team 2 won!
+Team 1 won!
+Team 1 won!
+Team 2 won!
+Team 1 won!
+Team 1 won!
+Team 2 won!
+Team 2 won!
+Team 1 won!
+Team 1 won the playoffs!!
+> 

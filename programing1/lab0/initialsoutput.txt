@@ -1,0 +1,11 @@
+> run HW1
+Lab 0 written by Justin McCann
+
+   JJJJ DDDDDD  M     M
+      J D     D MM   MM
+      J D     D M M M M
+      J D     D M  M  M
+      J D     D M     M
+J     J D     D M     M
+JJJJJJJ DDDDDD  M     M
+> 

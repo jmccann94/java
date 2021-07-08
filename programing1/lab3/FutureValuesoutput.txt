@@ -1,0 +1,20 @@
+> run FutureValues
+Lab 3 written by Justin McCann
+	Compound Interest
+Enter Present Value:
+ [DrJava Input Box]
+Enter Interest Rate:
+ [DrJava Input Box]
+Enter Years:
+ [DrJava Input Box]
+Future Value: $1102.50
+
+	Annuity
+Enter Present Value:
+ [DrJava Input Box]
+Enter Interest Rate:
+ [DrJava Input Box]
+Enter Years:
+ [DrJava Input Box]
+Future Value: $315.25
+> 

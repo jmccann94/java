@@ -1,0 +1,10 @@
+Welcome to DrJava.  Working directory is D:\Documents\Desktop\programing1\lab8
+> run Binary
+Lab 8 written by Justin McCann
+Enter a positive integer: 
+ [DrJava Input Box]
+110010
+Do you want to continue (yes or no)?
+ [DrJava Input Box]
+Thank you, Goodbye
+>

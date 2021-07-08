@@ -1,0 +1,15 @@
+> run StarWarsName
+Star Wars Name Generator
+
+Enter your first name:
+ [DrJava Input Box]
+Enter your last name:
+ [DrJava Input Box]
+Enter your mother's maiden name:
+ [DrJava Input Box]
+Enter the city where you were born:
+ [DrJava Input Box]
+Enter the first car you drove:
+ [DrJava Input Box]
+You are JUSMC MOSAN of NNJETTA
+> 
